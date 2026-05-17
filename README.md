@@ -1,7 +1,6 @@
 # ADTC Quixadá VR - Experiência no Metaverso
 
 **Aluno:** Francisco Josias da Silva Batista
-**Instituição/Curso:** Capacitação em Metaverso (Fase 1)
 
 ## Apresentando o Seu Projeto
 Este projeto consiste na recriação em Realidade Virtual (VR) do salão principal da Igreja Assembleia de Deus Templo Central (ADTC), localizada no município de Quixadá - CE. O ambiente foi modelado utilizando as ferramentas primitivas da Unity e assets low poly, focando em replicar a estética do local (assentos em madeira, corredor central, altar elevado e iluminação acolhedora). O projeto possui navegação funcional pelo PC e está configurado para o Meta Quest via Meta XR SDK.
